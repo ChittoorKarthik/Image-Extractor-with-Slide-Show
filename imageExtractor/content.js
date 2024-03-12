@@ -9,8 +9,8 @@ var slideshowInterval;
 function startSlideshow() {
     // Stop any existing slideshow
     stopSlideshow();
-    // Start the slideshow by calling nextImage every 5 seconds
-    slideshowInterval = setInterval(nextImage, 5000);
+    // Start the slideshow by calling nextImage every 7 seconds
+    slideshowInterval = setInterval(nextImage, 7000);
 }
 
 // Function to stop the slideshow
