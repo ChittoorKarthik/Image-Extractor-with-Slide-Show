@@ -3,6 +3,7 @@ This is a chrome extension. On the click of a button ,it gathers only the images
 
 # How to Use it?
 1.go to this link : https://github.com/ChittoorKarthik/Image-Extractor-from-any-webpage-with-Slideshow
+
 2.click green button <Code>
 3.download zip
 4.extract folder
